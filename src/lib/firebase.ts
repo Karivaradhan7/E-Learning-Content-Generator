@@ -1,13 +1,14 @@
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBeBRq1z-diZGRuxSonsI4Jn-9UQ8v8IU0",
-  authDomain: "aptora-4108d.firebaseapp.com",
-  projectId: "aptora-4108d",
-  storageBucket: "aptora-4108d.firebasestorage.app",
-  messagingSenderId: "966897977550",
-  appId: "1:966897977550:web:8f8910927011ab9225689f",
-  measurementId: "G-SWFKT9VK3P"
+  const firebaseConfig = {
+  apiKey: "AIzaSyAMcmFrxN18K52xrpfngzX4sSEzN-KiPNg",
+  authDomain: "gen-lang-client-0807925200.firebaseapp.com",
+  projectId: "gen-lang-client-0807925200",
+  storageBucket: "gen-lang-client-0807925200.firebasestorage.app",
+  messagingSenderId: "15935425194",
+  appId: "1:15935425194:web:cf27354d6c4e8166391ed3",
+  measurementId: "G-EJ1KJ5X9Y4"
 };
 
 export { firebaseConfig };
